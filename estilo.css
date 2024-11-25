@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.ima-1{
+    height: 3.8rem;
+}
+header{
+    background-image: url(./imag/sec1.jpg);
+    background-size: cover;
+    height: 60rem;
+    background-position: center center;
+    background-attachment: fixed;
+    
+
+
+}
+.h-1{
+    font-family: "Anton";
+    padding-top: 23em;
+    text-align: center;
+}
+p{
+    font-size: 3.5rem;
+}
+.H-1{
+    font-size: 4.5rem;
+}
+.bg-1{
+    background-color: white;
+    font-size: 3rem;
+    font-family: Bebas Neue;
+
+}
+section{
+    background-color: black;
+}
+header{
+    background-color: white;
+}
+.bt1{
+    margin: solid 3rem white ;
+}
+.redes-sociales{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+}
+footer{
+    padding: 3rem;
+}
+
+@media screen and (max-width: 600px){
+
+    .ima-1{
+        display: none;
+    }
+
+
+}
+
